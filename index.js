@@ -1,1 +1,1 @@
-console.log("index file was run");
+console.error("index file was run");
